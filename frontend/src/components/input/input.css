@@ -1,0 +1,47 @@
+.input-group{
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.input-label{
+    color: #414651;
+    font-weight: 700;
+    font-size: 14px;
+}
+
+.input-field{
+    color: #717680;
+    border: 1px solid #D5D7DA;
+    padding: 4px 10px;
+    border-radius: 4px;
+}
+
+.input-field:focus{
+    border: 1px solid #1A1A1A;
+}
+
+.error{
+    width: fit-content;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 4px;
+}
+
+.error-ico{
+    height: 15px;
+}
+
+.error-title{
+    color: #cb2a2f;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.error-message{
+    color: #cb2a2f;
+    font-size: 12px;
+}
