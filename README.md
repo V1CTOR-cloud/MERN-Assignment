@@ -39,3 +39,11 @@ https://github.com/V1CTOR-cloud/MERN-Assignment.git
 ## 📄 License
 
 Distributed under the MIT License.
+
+---
+
+## Postman collection
+
+```
+https://.postman.co/workspace/My-Workspace~cb078005-7ff4-4f9a-8fcd-88c25e857827/request/23632444-49dee48d-368e-431f-a6ea-35a33921183b?action=share&creator=23632444&ctx=documentation
+```
